@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <pre><code><h3>Hi there 👋</code></pre>
+
+
+  <img  src="http://www.nyan.cat/cats/original.gif" width="150" />
+
+
+  <pre><code>Im tsjazil
+
+  UI/UX designer | Linux Enthusiast | Budding developer </code></pre>
+</div>
 
 <!--
 **tsjazil/tsjazil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
