@@ -1,13 +1,14 @@
-<div align="center">
-  <pre><code><h3>Hi there 👋</code></pre>
+<div align=center > <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100><div align="center">-->
+ <img  src="http://www.nyan.cat/cats/original.gif" width="100" /><br>
+  <!--<pre><code> 👋 Hi there Im tsjazil</code></pre>-->
+  <samp>
+     👋 Hi there Im tsjazil<br>
+     
+  </samp>
+</p>
 
-
-  <img  src="http://www.nyan.cat/cats/original.gif" width="150" />
-
-
-  <pre><code>Im tsjazil
-
-  UI/UX designer | Linux Enthusiast | Budding developer </code></pre>
+<!--  <img  src="http://www.nyan.cat/cats/original.gif" width="75" />-->
+  <pre><code> UI/UX designer | Linux Enthusiast | Budding developer</code></pre>
 </div>
 
 <!--
