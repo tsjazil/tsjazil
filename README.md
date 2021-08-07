@@ -3,13 +3,13 @@
  
   <!--<pre><code> 👋 Hi there Im tsjazil</code></pre>-->
   <p><samp>
-     👋 Hi there Im tsjazil<br>
+     👋 Hi there Im Jazil T S<br>
      
   </samp>
 </p>
 
 <!--  <img  src="http://www.nyan.cat/cats/original.gif" width="75" />-->
-  <pre> UI/UX designer | Linux Enthusiast | Budding developer</code></pre>
+  <pre>✨ UI/UX designer | 🖥️ Linux Enthusiast | 👨‍💻 Budding developer</code></pre>
    
 
 
@@ -18,7 +18,7 @@
 **tsjazil/tsjazil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [<img src="https://img.shields.io/badge/Twitter-tsjazil-blue">](https://twitter.com/tsjazil)
 [<img src="https://img.shields.io/badge/email-tsjazil%40gmail.com-green">](mailto:tsjazil@gmail.com)
-
+🖥️ 👨‍💻
 
 <samp style="font-size:8px"> [Instagram](www.instagram.com/tsjazil) |  <samp> [twitter](www.twitter.com/tsjazil)</samp><br></p6> </samp><br>
 </div>
