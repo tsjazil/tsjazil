@@ -2,7 +2,7 @@
  <img  src="http://www.nyan.cat/cats/original.gif" width="85" /><br>
  
   <!--<pre><code> 👋 Hi there Im tsjazil</code></pre>-->
-  <samp>
+  <p><samp>
      👋 Hi there Im tsjazil<br>
      
   </samp>
@@ -10,10 +10,18 @@
 
 <!--  <img  src="http://www.nyan.cat/cats/original.gif" width="75" />-->
   <pre> UI/UX designer | Linux Enthusiast | Budding developer</code></pre>
-</div>
+   
+
+
 
 <!--
 **tsjazil/tsjazil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://img.shields.io/badge/Twitter-tsjazil-blue">](https://twitter.com/tsjazil)
+[<img src="https://img.shields.io/badge/email-tsjazil%40gmail.com-green">](mailto:tsjazil@gmail.com)
+
+
+<samp style="font-size:8px"> [Instagram](www.instagram.com/tsjazil) |  <samp> [twitter](www.twitter.com/tsjazil)</samp><br></p6> </samp><br>
+</div>
 
 Here are some ideas to get you started:
 
