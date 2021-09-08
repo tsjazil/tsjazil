@@ -1,5 +1,5 @@
 <div align=center > <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100><div align="center">-->
- <img  src="http://www.nyan.cat/cats/original.gif" width="85" /><br>
+<!--  <img  src="http://www.nyan.cat/cats/original.gif" width="85" /><br> -->
  
   <!--<pre><code> 👋 Hi there Im tsjazil</code></pre>-->
   <p><samp>
