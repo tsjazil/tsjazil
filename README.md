@@ -9,7 +9,7 @@
 </p>
 
 <!--  <img  src="http://www.nyan.cat/cats/original.gif" width="75" />-->
-  <pre>✨ UI/UX designer | 🖥️ Linux Enthusiast | 👨‍💻 Budding developer</code></pre>
+  <pre>✨ UI/UX designer | 🖥️ Linux Enthusiast </code></pre>
   </div>
 
 
