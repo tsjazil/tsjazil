@@ -11,8 +11,7 @@
 <!--  <img  src="http://www.nyan.cat/cats/original.gif" width="75" />-->
   <pre>✨ UI/UX designer | 🖥️ Linux Enthusiast </code></pre>
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tsjazil&show_icons=true&theme=github_dark)](https://github.com/tsjazil)
-  
+ 
 </div>
 
 <!--
