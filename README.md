@@ -10,11 +10,10 @@
 
 <!--  <img  src="http://www.nyan.cat/cats/original.gif" width="75" />-->
   <pre>✨ UI/UX designer | 🖥️ Linux Enthusiast </code></pre>
-  </div>
-
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tsjazil&show_icons=true&theme=github_dark)](https://github.com/tsjazil/github-readme-stats)
-
+  
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tsjazil&show_icons=true&theme=github_dark)](https://github.com/tsjazil)
+  
+</div>
 
 <!--
 **tsjazil/tsjazil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
